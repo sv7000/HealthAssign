@@ -31,26 +31,26 @@
 }
 
 [data-theme="dark"] {
-  --bg: #0b1120;
-  --panel: #141d2e;
-  --panel-2: #0f1729;
-  --ink: #e2e8f0;
-  --muted: #94a3b8;
-  --line: #243049;
-  --brand: #14b8b6;
-  --brand-deep: #0ea5a3;
-  --brand-soft: #0d3a39;
+  --bg: #18151f;
+  --panel: #25202d;
+  --panel-2: #1f1a26;
+  --ink: #f3edf7;
+  --muted: #c1b4c8;
+  --line: #3b3344;
+  --brand: #c084fc;
+  --brand-deep: #a855f7;
+  --brand-soft: #3b2452;
   --amber: #fbbf24;
-  --amber-soft: #3a2e0e;
+  --amber-soft: #42300d;
   --rose: #fb7185;
-  --rose-soft: #3b1420;
-  --green: #22c55e;
-  --green-soft: #0f3320;
-  --blue: #60a5fa;
-  --blue-soft: #1a2d4a;
-  --slate: #94a3b8;
-  --slate-soft: #1a2538;
-  --topbar-bg: rgba(20, 29, 46, 0.85);
+  --rose-soft: #451d2b;
+  --green: #4ade80;
+  --green-soft: #173a28;
+  --blue: #93c5fd;
+  --blue-soft: #243b5c;
+  --slate: #c1b4c8;
+  --slate-soft: #302a38;
+  --topbar-bg: rgba(37, 32, 45, 0.85);
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 12px 28px -12px rgba(0, 0, 0, 0.3);
   --shadow-hover: 0 4px 6px rgba(0, 0, 0, 0.2), 0 18px 36px -14px rgba(0, 0, 0, 0.35);
   --backdrop: rgba(0, 0, 0, 0.6);
